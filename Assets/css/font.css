@@ -1,0 +1,30 @@
+@font-face{
+    font-family:Abel;
+    src:url('../css/fonts/Abel/Abel-Regular.ttf');
+}
+
+@font-face{
+    font-family:Anton;
+    src:url('../css/fonts/Anton/Anton-Regular.ttf');
+}
+
+@font-face{
+    font-family:Josefin;
+    src:url('../css/fonts/Josefin_Sans/static/JosefinSans-Regular.ttf');
+}
+
+@font-face{
+    font-family:Julius;
+    src:url('../css/fonts/Julius_Sans_One/JuliusSansOne-Regular.ttf');
+}
+
+@font-face{
+    font-family:Lexend;
+    src:url('../css/fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+@font-face{
+    font-family:Livvic;
+    src:url('../css/fonts/Livvic/Livvic-Regular.ttf');
+}
+
